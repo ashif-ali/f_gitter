@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/f_gitter/static/css/main.ff5a9646.chunk.css",
-    "main.js": "/f_gitter/static/js/main.c75a3570.chunk.js",
-    "main.js.map": "/f_gitter/static/js/main.c75a3570.chunk.js.map",
+    "main.js": "/f_gitter/static/js/main.27b77a1c.chunk.js",
+    "main.js.map": "/f_gitter/static/js/main.27b77a1c.chunk.js.map",
     "runtime-main.js": "/f_gitter/static/js/runtime-main.62fa874a.js",
     "runtime-main.js.map": "/f_gitter/static/js/runtime-main.62fa874a.js.map",
     "static/js/2.dd4a7cf0.chunk.js": "/f_gitter/static/js/2.dd4a7cf0.chunk.js",
     "static/js/2.dd4a7cf0.chunk.js.map": "/f_gitter/static/js/2.dd4a7cf0.chunk.js.map",
     "index.html": "/f_gitter/index.html",
-    "precache-manifest.cad8ce392f2a7ec2807aa33e44d557fd.js": "/f_gitter/precache-manifest.cad8ce392f2a7ec2807aa33e44d557fd.js",
+    "precache-manifest.faa290c453c86607fce5605d06e67ab4.js": "/f_gitter/precache-manifest.faa290c453c86607fce5605d06e67ab4.js",
     "service-worker.js": "/f_gitter/service-worker.js",
     "static/css/main.ff5a9646.chunk.css.map": "/f_gitter/static/css/main.ff5a9646.chunk.css.map",
     "static/js/2.dd4a7cf0.chunk.js.LICENSE.txt": "/f_gitter/static/js/2.dd4a7cf0.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.62fa874a.js",
     "static/js/2.dd4a7cf0.chunk.js",
     "static/css/main.ff5a9646.chunk.css",
-    "static/js/main.c75a3570.chunk.js"
+    "static/js/main.27b77a1c.chunk.js"
   ]
 }
